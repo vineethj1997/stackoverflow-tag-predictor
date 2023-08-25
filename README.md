@@ -33,5 +33,5 @@ In this step we take a test data set and perform the similar operations as follo
 
 ### Conclusion:
 
-We were successful in predicting the tags which high similarity score. The predicted and the actual tags generated are almost very similar.
+We were successful in predicting the tags which had high similarity score. The predicted and the actual tags generated are almost very similar.
 
